@@ -19,5 +19,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" width="300" />
 </p>
-[![ezgif-27987a9c3456cc](https://github.com/user-attachments/assets/9513ba37-548c-4bf6-a8ab-d83e32de410c)
-![gaMvA2w](https://github.com/user-attachments/assets/2b161460-8a71-454c-ab99-908553ecf2db)](https://github.com/ChanPagar/ChanPagar/issues/1#issue-3365644503)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" height="3000" />
+  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" height="3000" />
+</p>
+
+

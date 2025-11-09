@@ -1,27 +1,30 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/pgBcJThqw41PjUbqsZKv5.png" alt="GitHub Contributions" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanpagar&show_icons=true&theme=radical" alt="Christian's GitHub Stats" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Christian Joey Pagar</h1>
 <h3 align="center">Coding • Podcast • Gym</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" height="300" />
-  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" height="300" />
-</p>
-
 ---
 
-### 🚀 Contributions & Current Work
+### 🚀 Current Focus
 - 🔭 Working on **Project Solo Levelling (me)** — a personal mastery journey
 - ⚡ Fun fact: **I lift / read / listen**
 
 ---
 
-### 🌱 Learning & Growth
+### 🌱 Learning Goals
 - Cybersecurity
 - Web Development
 - Internet of Things (IoT)
 
 ---
 
-### 📫 Contact Me
+### 📫 Reach Me
 - Email: **christianjoey.pagar@g.msuiit.edu.ph**
 - LinkedIn: [chanpagar](https://linkedin.com/in/chanpagar)
 

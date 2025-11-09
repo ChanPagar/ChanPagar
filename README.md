@@ -8,6 +8,10 @@
 - 📫 How to reach me **christianjoey.pagar@g.msuiit.edu.ph**
 
 - ⚡ Fun fact **I lift/read/listen.**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" height="3000" />
+  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" height="3000" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,9 +23,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" width="300" />
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" height="3000" />
-  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" height="3000" />
-</p>
+
 
 

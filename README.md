@@ -14,7 +14,7 @@ About me
 
 I'm Chan, an Information Technology student focused on networks and systems. I build web apps around my interests—from tracking fitness progress to sharing interactive 3D work—and I'm exploring cybersecurity and the Internet of Things.
 
-
+My background in photography and videography shapes how I approach the visual side of my projects.
 
 Selected work
 
@@ -37,7 +37,7 @@ A home for my projects and creative work.
 Tools I work with
 
 Web: React · TypeScript · JavaScript · Next.js · Vite
-3D & cloud: Three.js · Supabase · Vercel · Blender
+3D & cloud: Three.js · Supabase · Vercel
 Other languages & databases I've used: Python · Java · PHP · MySQL
 
 Currently exploring
@@ -58,14 +58,14 @@ I lift, read, and listen to podcasts. Project Solo Levelling is still ongoing—
 <summary>A little more of me</summary>
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" alt="A photo from my personal collection" width="260" />
+  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" alt="A photo from my personal collection" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" alt="Another photo from my personal collection" width="260" />
+  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" alt="Another photo from my personal collection" />
 </p>
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" width="300" />
+  <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" />
 </p>
 
 Let's connect: LinkedIn · christianjoey.pagar@g.msuiit.edu.ph

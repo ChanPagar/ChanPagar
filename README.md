@@ -28,16 +28,10 @@ React · TypeScript · JavaScript · Next.js · Vite · Three.js · Supabase · 
 
 Lifting, reading, and podcasts. **Project Solo Levelling**—one workout, lesson, and project at a time.
 
-<details>
-<summary>A little more of me</summary>
-<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6aa6ac52-1376-4dca-8630-f97da12df39a" alt="A photo from my personal collection" width="260" />
-  <img src="https://github.com/user-attachments/assets/39d75483-2142-4a88-8ab9-a1e76254efdf" alt="Another photo from my personal collection" width="260" />
+  <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" width="300" />
 </p>
-</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chanpagar/chanpagar/main/assets/ezgif.gif" alt="GIF Banner" width="300" />
 </p>
-****
